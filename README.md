@@ -18,7 +18,7 @@
 
 ---
 
-## `whoami`
+## `Who am I`
 
 ```yaml
 name: Mohamed Shameel M
@@ -45,7 +45,7 @@ I'm a CSE (AI & ML) student interested in building practical software and intell
 
 ---
 
-## `tech arsenal`
+## `Tech Arsenal`
 
 <div align="center">
 
@@ -63,7 +63,7 @@ I'm a CSE (AI & ML) student interested in building practical software and intell
 
 ---
 
-## `selected projects`
+## `Projects`
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Ideas+to+interfaces;Building+systems+that+solve+real+problems;Learning%2C+shipping%2C+iterating" alt="Animated project tagline" />
@@ -209,7 +209,7 @@ Gemini API + GitHub Public API + LeetCode GraphQL API
 ---
 ---
 
-## `github analytics`
+## `Github Analytics`
 
 <div align="center">
 
