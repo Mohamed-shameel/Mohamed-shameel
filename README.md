@@ -1,7 +1,7 @@
 <!-- SHAMEEL'S GITHUB PROFILE README -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B1F3A,100:00D4FF&height=220&section=header&text=MOHAMED%20SHAMEEL&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Engineering%20ideas%20into%20reality&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Animated blue cyber header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B1F3A,100:00D4FF&height=220&section=header&text=MOHAMED%20SHAMEEL%20M&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Engineering%20ideas%20into%20reality&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Animated blue cyber header" />
 
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Computer+Science+%7C+AI+%26+ML;Software+Engineering+Enthusiast;Building+useful%2C+real-world+systems;Exploring+Agentic+AI+%26+intelligent+automation" alt="Animated typing introduction" />
@@ -10,9 +10,9 @@
   <br/>
 
   <!-- Replace YOUR_GITHUB_USERNAME in the URLs below with your GitHub username -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-shameel&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
   <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0891b2&label=FOLLOWERS" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Mohamed-shameel?style=for-the-badge&color=0891b2&label=FOLLOWERS" alt="GitHub followers" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@
 ## `whoami`
 
 ```yaml
-name: Mohamed Shameel
+name: Mohamed Shameel M
 role: Computer Science Engineering Student
 focus:
   - Software Development
